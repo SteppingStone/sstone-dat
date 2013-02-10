@@ -4,6 +4,9 @@ sstone-dat -- Stepping Stone Destktop Authoring Tool
 
 TODO: describe what this does.
 
+TODO: describe building with and without mp3spi1.9.5.zip.  See customizations
+to the ``package`` goal in maven for details.
+
 This project uses a standard maven build. There is also a Makefile
 with some convenience targets. Take a look at these to get an idea
 of some properties that can be configured at build time or runtime.
